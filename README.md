@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @intilichiv
-- 👀 I’m interested in finance and cryptos APIs.
+- 👀 I’m interested in traditional finance and cryptos APIs.
 - 🌱 I’m currently learning python and RStudio
 - 📫 How to reach me in twitter @intilich
 
